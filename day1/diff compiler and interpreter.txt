@@ -1,0 +1,21 @@
+QUESTION: DIFFERENCE BETWEEN INTERPRETER AND COMPILER.
+
+ANSWER:
+
+COMPILER:
+
+-Compiler translates the complete source program in a single run.
+-It consumes less time.
+-It is more efficient.
+-Compilers are large in size.
+-Error localization is difficult.
+-Used by c,c++
+
+INTERPRETER:
+
+-An interpreter translates the source program line by line.
+-It consumes more time tham compiler.
+-Less efficient.
+-Interpreters are smaller in size.
+-Error localization in easier.
+-Used by Python,Java
