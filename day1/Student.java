@@ -4,6 +4,7 @@ public class Student{
         Scanner sc =new Scanner(System.in);
        
            int roll=sc.nextInt();
+           sc.nextLine();
            String name=sc.nextLine();
            Float marks=sc.nextFloat();
         
